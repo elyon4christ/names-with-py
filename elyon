@@ -1,0 +1,4 @@
+var name = "elyon";
+var surname = "ochai";
+var age = 22
+console.log("i am " + name + surname  + " am " +age + " years ")
